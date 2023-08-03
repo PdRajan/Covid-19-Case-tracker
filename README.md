@@ -29,9 +29,6 @@ To run this project locally, follow these steps:
 - CSS: For styling and layout design.
 - Fetch API: To fetch data from the COVID-19 data API.
 
-## Project Preview
-
-![Project Preview](project-preview.png)
 
 ## Project Status
 
