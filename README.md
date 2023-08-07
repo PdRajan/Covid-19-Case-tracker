@@ -1,4 +1,4 @@
-# 🌈 COVID-19 Case Tracker
+# COVID-19 Case Tracker
 
 ![Project Preview](project-preview.png)
 
